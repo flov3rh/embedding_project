@@ -1,0 +1,27 @@
+#nav_bar {
+  background-color: gray;
+  position: fixed;
+  width: 100%;
+}
+
+#search {
+  width: 1000px;
+  margin-top: 20px;
+}
+
+#search_field {
+  width: 35%;
+  height: 25px;
+}
+
+#img_container {
+  display: inline;
+}
+
+img {
+  margin-left: 30px;
+}
+
+#right_top {
+
+}
