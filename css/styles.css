@@ -20,18 +20,21 @@
 }
 
 #search_field {
-  width: 100%;
+  width: 85%;
   height: 25px;
   margin-left: 35%;
   margin-top: 0;
-  clear: right;
 }
 
 #search_submit {
-  margin-left: 175px;
+  margin-left: 0;
   margin-right: 50px;
   width: 70px;
   height: 31px;
+}
+
+#search_submit_nav{
+  margin-left: 0;
 }
 
 li {
@@ -43,6 +46,7 @@ li {
 
 .search_nav {
   width: 40%;
+  margin-right: 0;
 }
 
 .right_top {
