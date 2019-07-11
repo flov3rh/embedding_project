@@ -75,3 +75,22 @@ body {
   padding: 0;
   background-color: gray;
 }
+
+#video_player{
+  display: block;
+  padding: 100px;
+}
+
+.conteiner{
+  display: flex;
+  background-color: red;
+  justify-content: space-between;
+}
+
+.video_player_section{
+  background-color: blue;
+}
+
+#recommended{
+  background-color: green;
+}
